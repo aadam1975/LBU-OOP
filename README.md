@@ -1,8 +1,8 @@
 
 # OOP 2024 Portfolio
-## Your Name
-### Your Group
-### Your Tutor
+## Aadam Hajat
+### Group A
+### Patrick Ingham
 
 
 
