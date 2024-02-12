@@ -15,6 +15,13 @@ public class dice {
         Random numbers = new Random();
         int currentNumber = number.nextInt(7);
         return currentNumber;
+
+
+
+        //6 sides
+        //roll
+        //randomness
+
     }
 
 }
